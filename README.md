@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fdabe45f-56a5-4eec-b774-d07772c12829.jpeg?v=1785015269)](https://www.boot.dev/certificates/fdabe45f-56a5-4eec-b774-d07772c12829)
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d59fa78f-1a9d-4b99-bdcc-a54eb0f07d60.jpeg?v=1784490047)](https://www.boot.dev/certificates/d59fa78f-1a9d-4b99-bdcc-a54eb0f07d60)
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/867c1306-a566-4a17-9b9b-a6e7ed87dbe4.jpeg?v=1784792775)](https://www.boot.dev/certificates/867c1306-a566-4a17-9b9b-a6e7ed87dbe4)
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fdabe45f-56a5-4eec-b774-d07772c12829.jpeg?v=1785015269)](https://www.boot.dev/certificates/fdabe45f-56a5-4eec-b774-d07772c12829)
